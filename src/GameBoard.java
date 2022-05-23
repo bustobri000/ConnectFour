@@ -87,7 +87,7 @@ public class GameBoard {
             System.out.println(" " + spacesText[0][row] + " | " + spacesText[1][row] + " | " + spacesText[2][row] + " | " + spacesText[3][row] + " | " + spacesText[4][row] + " | " + spacesText[5][row] + " | " + spacesText[6][row]);
 
         }
-    }
+    }// Love
 
 
 }

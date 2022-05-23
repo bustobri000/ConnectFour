@@ -116,7 +116,7 @@ public class Main {
             isRed = !isRed;
             if(isFilled){return;}
         }
-    }
+    }// Love
     public static class Column2Listener implements ActionListener{
         @Override
         public void actionPerformed(ActionEvent actionEvent) {
